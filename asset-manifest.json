@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/virtualreality/static/css/main.4ae4c813.css",
+    "main.js": "/virtualreality/static/js/main.cda20512.js",
+    "static/js/453.4f2fc5e0.chunk.js": "/virtualreality/static/js/453.4f2fc5e0.chunk.js",
+    "static/media/hands.svg": "/virtualreality/static/media/hands.08aa77f0ba41bbdcf3ad7784d7e36eff.svg",
+    "static/media/Ellipse 3.svg": "/virtualreality/static/media/Ellipse 3.5c92dee872088edaad5fddf5c90a144b.svg",
+    "static/media/Ellipse 2.svg": "/virtualreality/static/media/Ellipse 2.4f8c039aaa281da6fd44dfa28483b399.svg",
+    "static/media/Rectangle 33.png": "/virtualreality/static/media/Rectangle 33.51b067378d3c8e8ce334.png",
+    "static/media/Ellipse 4.svg": "/virtualreality/static/media/Ellipse 4.bdb6f4157f13a47ec9fc1d5d0675055f.svg",
+    "static/media/Ellipse 1.svg": "/virtualreality/static/media/Ellipse 1.252b4a2d2f98b6e8e815821fb30bfda3.svg",
+    "static/media/Rectangle 35.png": "/virtualreality/static/media/Rectangle 35.41b228781610b1cc54fc.png",
+    "static/media/Rectangle 34.png": "/virtualreality/static/media/Rectangle 34.92b80ea93943a9fb9d9d.png",
+    "static/media/Rectangle 36.png": "/virtualreality/static/media/Rectangle 36.73391c9ac77c595b8f98.png",
+    "static/media/First.png": "/virtualreality/static/media/First.d5552d44610b42843b1e.png",
+    "static/media/Second.png": "/virtualreality/static/media/Second.66c2469f38a52ca74dea.png",
+    "static/media/Third.png": "/virtualreality/static/media/Third.ade71ac803cf840df1a8.png",
+    "static/media/Fifth.png": "/virtualreality/static/media/Fifth.eb67e1ee714e8c754228.png",
+    "static/media/Tick.svg": "/virtualreality/static/media/Tick.630367370eb1d561cf18f932aa127343.svg",
+    "static/media/Victoryhand.svg": "/virtualreality/static/media/Victoryhand.2a27e0b62279a3533efd606274df6385.svg",
+    "static/media/Bulb.svg": "/virtualreality/static/media/Bulb.4c33c0083babeb8c1d11f80500c1e64b.svg",
+    "static/media/Handshake.svg": "/virtualreality/static/media/Handshake.f30711d9f5e2474967947994f7aad206.svg",
+    "index.html": "/virtualreality/index.html",
+    "main.4ae4c813.css.map": "/virtualreality/static/css/main.4ae4c813.css.map",
+    "main.cda20512.js.map": "/virtualreality/static/js/main.cda20512.js.map",
+    "453.4f2fc5e0.chunk.js.map": "/virtualreality/static/js/453.4f2fc5e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ae4c813.css",
+    "static/js/main.cda20512.js"
+  ]
+}
