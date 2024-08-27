@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/virtualreality/static/css/main.4ae4c813.css",
-    "main.js": "/virtualreality/static/js/main.cda20512.js",
+    "main.css": "/virtualreality/static/css/main.2f884024.css",
+    "main.js": "/virtualreality/static/js/main.4dce1fd8.js",
     "static/js/453.4f2fc5e0.chunk.js": "/virtualreality/static/js/453.4f2fc5e0.chunk.js",
     "static/media/hands.svg": "/virtualreality/static/media/hands.08aa77f0ba41bbdcf3ad7784d7e36eff.svg",
     "static/media/Ellipse 3.svg": "/virtualreality/static/media/Ellipse 3.5c92dee872088edaad5fddf5c90a144b.svg",
@@ -21,12 +21,12 @@
     "static/media/Bulb.svg": "/virtualreality/static/media/Bulb.4c33c0083babeb8c1d11f80500c1e64b.svg",
     "static/media/Handshake.svg": "/virtualreality/static/media/Handshake.f30711d9f5e2474967947994f7aad206.svg",
     "index.html": "/virtualreality/index.html",
-    "main.4ae4c813.css.map": "/virtualreality/static/css/main.4ae4c813.css.map",
-    "main.cda20512.js.map": "/virtualreality/static/js/main.cda20512.js.map",
+    "main.2f884024.css.map": "/virtualreality/static/css/main.2f884024.css.map",
+    "main.4dce1fd8.js.map": "/virtualreality/static/js/main.4dce1fd8.js.map",
     "453.4f2fc5e0.chunk.js.map": "/virtualreality/static/js/453.4f2fc5e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ae4c813.css",
-    "static/js/main.cda20512.js"
+    "static/css/main.2f884024.css",
+    "static/js/main.4dce1fd8.js"
   ]
 }
